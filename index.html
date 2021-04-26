@@ -10,6 +10,7 @@
       integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
       crossorigin="anonymous"
     />
+    <link rel="icon" href="./img/logo.png" />
     <link rel="stylesheet" href="style.css" />
     <title>Starbucks</title>
   </head>
@@ -40,10 +41,10 @@
                 <a class="nav-link" href="#">Menu</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">Lo Nuevo</a>
+                <a class="nav-link" href="#">Novedades</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">Contact</a>
+                <a class="nav-link" href="#">Contacto</a>
               </li>
             </ul>
           </div>
@@ -102,13 +103,12 @@
     <footer></footer>
   </body>
   <script type="text/javascript">
-    function imgSlider(other) {
-      document.querySelector(".vasokingImg").src = other;
-    }
-
-    function circleColor(color) {
+    const imgSlider = (other) => {
+      document.querySelector(".vasokingImg").img = other;
+    };
+    const circleColor = (color) => {
       const circle = document.querySelector(".circle");
       circle.style.background = color;
-    }
+    };
   </script>
 </html>
