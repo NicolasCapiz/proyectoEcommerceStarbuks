@@ -1,25 +1,27 @@
-import { NgModule } from '@angular/core';
-import { BrowserModule } from '@angular/platform-browser';
-import { AppRoutingModule } from './app-routing.module';
-import { AppComponent } from './app.component';
-import { HeaderComponent } from './components/header/header.component';
-import { SectionComponent } from './components/section/section.component';
-import { ContainerComponent } from './components/container/container.component';
-import { TiendaComponent } from './Pages/Tienda/tienda/tienda.component';
+import { NgModule } from '@angular/core'
+import { BrowserModule } from '@angular/platform-browser'
+import { AppRoutingModule } from './app-routing.module'
+import { AppComponent } from './app.component'
+import { SectionComponent } from './pages/Home/section/section.component'
+import { TiendaComponent } from './Pages/Tienda/tienda/tienda.component'
+import { RouterModule } from '@angular/router'
+import { SidebarComponent } from './shared/sidebar/sidebar.component'
+import { HomeComponent } from './pages/Home/home/home.component'
+import { HeaderComponent } from './shared/header/header.component'
+import { FooterComponent } from './shared/footer/footer.component'
 
 @NgModule({
   declarations: [
     AppComponent,
     HeaderComponent,
     SectionComponent,
-    ContainerComponent,
-    TiendaComponent
+    TiendaComponent,
+    SidebarComponent,
+    HomeComponent,
+    FooterComponent,
   ],
-  imports: [
-    BrowserModule,
-    AppRoutingModule
-  ],
+  imports: [BrowserModule, AppRoutingModule, RouterModule],
   providers: [],
-  bootstrap: [AppComponent]
+  bootstrap: [AppComponent],
 })
-export class AppModule { }
+export class AppModule {}
