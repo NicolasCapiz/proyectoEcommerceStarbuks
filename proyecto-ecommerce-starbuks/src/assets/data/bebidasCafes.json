@@ -1,259 +1,257 @@
 {
-  "bebidasHeladas": {
-    "producto1": {
+  "bebidasHeladas": [
+    {
       "nombre": "Cloud Machiato Helado",
       "img": "https://images.deliveryhero.io/image/pedidosya/products/fba34e90-4f22-4b69-a159-ee22c6484c44.jpg?quality=80&width=200",
       "precio": "370"
     },
-    "produto2": {
+    {
       "nombre": "Caramel Cloud Machiato Helado",
       "img": "https://images.deliveryhero.io/image/pedidosya/products/e798dc69-4d7c-40d6-8e87-7558387e0e0d.jpg?quality=80&width=200",
       "precio": "390"
     },
-    "produto3": {
+    {
       "nombre": "Pistacho Mocha Helado",
       "img": "https://images.deliveryhero.io/image/pedidosya/products/299cf47d-a671-4481-a7a0-ab455978ff2b.jpg?quality=80&width=200",
       "precio": "370"
     },
-    "produto4": {
+    {
       "nombre": "Latte Helado",
       "img": "https://images.deliveryhero.io/image/pedidosya/products/5e030f98-49f3-407c-be03-db76255a628b.jpg?quality=80&width=200",
       "precio": "360"
     },
-    "produto5": {
+    {
       "nombre": "Americano Helado",
       "img": "https://images.deliveryhero.io/image/pedidosya/products/660ae015-3b96-457e-8986-49c6b1807f1a.jpg?quality=80&width=200",
       "precio": "360"
     },
-    "produto6": {
+    {
       "nombre": "Mocha Blanco Helado",
       "img": "https://images.deliveryhero.io/image/pedidosya/products/29acd59e-a3b8-490c-8842-78772e851f54.jpg?quality=80&width=200",
       "precio": "390"
     },
-    "produto7": {
+    {
       "nombre": "Mocha Helado",
       "img": "https://images.deliveryhero.io/image/pedidosya/products/68e6f719-22c6-4042-ba6d-5b851a99f3d4.jpg?quality=80&width=200",
       "precio": "390"
     },
-    "produto8": {
+    {
       "nombre": "Caramelo Macchiato Helado",
       "img": "https://images.deliveryhero.io/image/pedidosya/products/91939664-f9b1-42c7-9fe3-3801d6688459.jpg?quality=80&width=200",
       "precio": "380"
     },
-    "produto9": {
+    {
       "nombre": "Dulce de Leche Latte Helado",
       "img": "https://images.deliveryhero.io/image/pedidosya/products/1a0a8e4e-5fec-46f0-b6c2-85ca341d56f5.jpg?quality=80&width=200",
       "precio": "390"
     },
-    "produto10": {
+    {
       "nombre": "Vainilla Latte Helado",
       "img": "https://images.deliveryhero.io/image/pedidosya/products/008caa6a-bbd6-4c82-87a5-9d612605b05e.jpg?quality=80&width=200",
       "precio": "370"
     },
-    "produto11": {
+    {
       "nombre": "Skinny Caramel Macchiato Helado",
       "img": "https://images.deliveryhero.io/image/pedidosya/products/3877b63a-d63d-4b06-b272-e0e2a2129b57.jpg?quality=80&width=200",
       "precio": "380"
     },
-    "produto12": {
+    {
       "nombre": "Skinny Vainilla Latte Heladoo",
       "img": "https://images.deliveryhero.io/image/pedidosya/products/03d6d38b-2034-417b-866d-28e9896c2399.jpg?quality=80&width=200",
       "precio": "380"
     },
-    "produto13": {
+    {
       "nombre": "Cappuccino Helado",
       "img": "https://images.deliveryhero.io/image/pedidosya/products/3f46ee26-e63b-41bb-a6c3-d4b288cd07e8.jpg?quality=80&width=200",
       "precio": "360"
     }
-  },
-  "frappuccinosCafe": {
-    "producto1": {
+  ],
+  "frappuccinosCafe": [
+    {
       "nombre": "Pistacho Mocha Frappuccino",
       "img": "https://images.deliveryhero.io/image/pedidosya/products/0d79d393-8de5-4d5a-b6be-0508a9d26b45.jpg?quality=80&width=200",
       "precio": "405"
     },
-    "producto2": {
+    {
       "nombre": "Café Frappuccino",
       "img": "https://images.deliveryhero.io/image/pedidosya/products/98887635-c9a1-4190-9283-e13c80214631.jpg?quality=80&width=200",
       "precio": "430"
     },
-    "producto3": {
+    {
       "nombre": "Mocha Blanco Frappuccino®",
       "img": "https://images.deliveryhero.io/image/pedidosya/products/5e081e35-f411-4ccf-8a84-d24fffba6ea5.jpg?quality=80&width=200",
       "precio": "430"
     },
-    "producto4": {
+    {
       "nombre": "Caramel Frappuccino",
       "img": "https://images.deliveryhero.io/image/pedidosya/products/107bbd0b-f814-4e5f-957d-9208041797d4.jpg?quality=80&width=200",
       "precio": "430"
     },
-    "producto5": {
+    {
       "nombre": "Ultra Dulce de Leche Frappuccino",
       "img": "https://images.deliveryhero.io/image/pedidosya/products/c348a975-e5d0-4899-826b-17c850199ef1.jpg?quality=80&width=200",
       "precio": "440"
     }
-  },
-  "frappuccinosCrema": {
-    "producto1": {
+  ],
+  "frappuccinosCrema": [
+    {
       "nombre": "Maracuyá Frappuccino",
       "img": "https://images.deliveryhero.io/image/pedidosya/products/b3b97f61-4a0a-40d2-bbcf-88a5e7f4e8df.jpg?quality=80&width=200",
       "precio": "440"
     },
-    "producto2": {
+    {
       "nombre": "Pistacho Mocha Creme Frappuccino",
       "img": "https://images.deliveryhero.io/image/pedidosya/products/a6cbff76-860f-4e86-8054-3fb52fb61287.jpg?quality=80&width=200",
       "precio": "405"
     },
-    "producto3": {
+    {
       "nombre": "Cookies & Creme Frappuccino",
       "img": "https://images.deliveryhero.io/image/pedidosya/products/714428c6-1f89-4a79-a6a0-cd0b9568f287.jpg?quality=80&width=200",
       "precio": "440"
     },
-    "producto4": {
+    {
       "nombre": "Ultra Frutilla Creme Frappuccin",
       "img": "https://images.deliveryhero.io/image/pedidosya/products/b8f6f62f-8ec8-463b-9ce9-0058f2d40505.jpg?quality=80&width=200",
       "precio": "440"
     },
-    "producto5": {
+    {
       "nombre": "Ultra Dulce de Leche Creme Frappuccino",
       "img": "https://images.deliveryhero.io/image/pedidosya/products/6d6f2460-560d-4cf7-a3cf-d228ba272a78.jpg?quality=80&width=200",
       "precio": "440"
     },
-    "producto6": {
+    {
       "nombre": "Vainilla Creme Frappuccino",
       "img": "https://images.deliveryhero.io/image/pedidosya/products/26631865-01ff-4d4c-9779-dd9a898d3e50.jpg?quality=80&width=200",
       "precio": "430"
     },
-    "producto7": {
+    {
       "nombre": "Mocha Creme Frappuccino",
       "img": "https://images.deliveryhero.io/image/pedidosya/products/54e2c3e0-f0ff-45b0-b68a-70292ddd3f48.jpg?quality=80&width=200",
       "precio": "430"
     },
-    "producto8": {
+    {
       "nombre": "Mango & Maracuyá Frappuccino",
       "img": "https://images.deliveryhero.io/image/pedidosya/products/f2a92a73-8f93-4967-b340-cdb155844199.jpg?quality=80&width=200",
       "precio": "430"
     },
-    "producto9": {
+    {
       "nombre": "Frambuesa Frappuccino",
       "img": "https://images.deliveryhero.io/image/pedidosya/products/937b40ac-bc3c-4e85-a570-787381c5f63c.jpg?quality=80&width=200",
       "precio": "430"
     }
-  },
-  "espresosCalientes": {
-    "producto1": {
+  ],
+  "espresosCalientes": [
+    {
       "nombre": "Naranja Mocha Cream con Cold Foam",
       "img": "https://images.deliveryhero.io/image/pedidosya/products/40a2bc3c-85a6-47d0-aef3-7957db40a9d7.jpg?quality=80&width=200",
       "precio": "390"
     },
-    "producto2": {
+    {
       "nombre": "Avellana Mocha Cream con Cold Foam",
       "img": "https://images.deliveryhero.io/image/pedidosya/products/b3a3b3dd-e520-49bd-ac56-9cbaf1cd2315.jpg?quality=80&width=200",
       "precio": "390"
     },
-    "producto3": {
+    {
       "nombre": "Pistacho Mocha",
       "img": "https://images.deliveryhero.io/image/pedidosya/products/180c022f-34ae-4296-8513-9d12fc458bf3.jpg?quality=80&width=200",
       "precio": "370"
     },
-    "producto4": {
+    {
       "nombre": "Café del día",
       "img": "https://images.deliveryhero.io/image/pedidosya/products/bdfd6637-d435-4015-bc2b-689f2893827b.jpg?quality=80&width=200",
       "precio": "310"
     },
-    "producto5": {
+    {
       "nombre": "Café del día con leche",
       "img": "https://images.deliveryhero.io/image/pedidosya/products/0f06d41d-6265-4eea-abef-fa3c8d01f9a7.jpg?quality=80&width=200",
       "precio": "320"
     },
-    "producto6": {
+    {
       "nombre": "Dulce de Leche Latte",
       "img": "https://images.deliveryhero.io/image/pedidosya/products/4d276c07-b012-4748-87b8-379a9646f238.jpg?quality=80&width=200",
       "precio": "390"
     },
-    "producto7": {
+    {
       "nombre": "Latte",
       "img": "https://images.deliveryhero.io/image/pedidosya/products/47c54a41-72ea-4c08-8c96-866c0112170c.jpg?quality=80&width=200",
       "precio": "360"
     },
-    "producto8": {
+    {
       "nombre": "Cappuccino",
       "img": "https://images.deliveryhero.io/image/pedidosya/products/51938c0f-657b-47c4-91db-684ec31718e3.jpg?quality=80&width=200",
       "precio": "360"
     },
-    "producto9": {
+    {
       "nombre": "Mocha",
       "img": "https://images.deliveryhero.io/image/pedidosya/products/13fabaf7-e582-4904-971d-21d87904dc5e.jpg?quality=80&width=200",
       "precio": "390"
     },
-    "producto10": {
+    {
       "nombre": "Mocha Blanco",
       "img": "https://images.deliveryhero.io/image/pedidosya/products/13fabaf7-e582-4904-971d-21d87904dc5e.jpg?quality=80&width=200",
       "precio": "390"
     },
-    "producto11": {
+    {
       "nombre": "Vainilla Latte",
       "img": "https://images.deliveryhero.io/image/pedidosya/products/4c26c557-0cd6-42c6-a305-26f7c1d48d4c.jpg?quality=80&width=200",
       "precio": "370"
     },
-    "producto12": {
+    {
       "nombre": "Skinny Vainilla Latte",
       "img": "https://images.deliveryhero.io/image/pedidosya/products/4c26c557-0cd6-42c6-a305-26f7c1d48d4c.jpg?quality=80&width=200",
       "precio": "370"
     },
-    "producto13": {
+    {
       "nombre": "Flat White",
       "img": "https://images.deliveryhero.io/image/pedidosya/products/a50e819a-d8c1-4314-83d0-461c0c621f90.jpg?quality=80&width=200",
       "precio": "370"
     },
-    "producto14": {
+    {
       "nombre": "Latte Macchiato",
       "img": "https://images.deliveryhero.io/image/pedidosya/products/ad40e3f6-5587-4113-994e-52d53d6a5ba4.jpg?quality=80&width=200",
       "precio": "370"
     },
-    "producto15": {
+    {
       "nombre": "Americano",
       "img": "https://images.deliveryhero.io/image/pedidosya/products/72a6190f-86af-40f8-8613-afd869ba7483.jpg?quality=80&width=200",
       "precio": "360"
     },
-    "producto16": {
+    {
       "nombre": "Caramel Macchiato",
       "img": "https://images.deliveryhero.io/image/pedidosya/products/2c756fed-68bb-4020-a6f3-c732359c44af.jpg?quality=80&width=200",
       "precio": "380"
     },
-    "producto17": {
+    {
       "nombre": "Skinny Caramel Macchiato",
       "img": "https://images.deliveryhero.io/image/pedidosya/products/0874786b-18a7-4e24-aeb4-d0712c2ab4a8.jpg?quality=80&width=200",
       "precio": "380"
     }
-  },
-  "refreshers": {
-    "productos": {
-      "producto1": {
-        "nombre": "Berry Hibiscus Refresher",
-        "img": "https://images.deliveryhero.io/image/pedidosya/products/7d316fd2-dace-4ed1-b579-fe74d5d1b278.jpg?quality=80&width=200",
-        "precio": "430"
-      },
-      "producto2": {
-        "nombre": "Berry Hibiscus Lemonade Refresher",
-        "img": "https://images.deliveryhero.io/image/pedidosya/products/7d316fd2-dace-4ed1-b579-fe74d5d1b278.jpg?quality=80&width=200",
-        "precio": "460"
-      },
-      "producto3": {
-        "nombre": "Violet Drink",
-        "img": "https://images.deliveryhero.io/image/pedidosya/products/53d0a62d-db49-493e-987a-4a4307e9b5b5.jpg?quality=80&width=200",
-        "precio": "460"
-      },
-      "producto4": {
-        "nombre": "Pink Drink",
-        "img": "https://images.deliveryhero.io/image/pedidosya/products/0c7767b5-0474-4f15-8655-7a088e10fd8a.jpg?quality=80&width=200",
-        "precio": "460"
-      },
-      "producto5": {
-        "nombre": "Dragon Drink",
-        "img": "https://images.deliveryhero.io/image/pedidosya/products/59bb4640-c459-4734-be74-a9a1767219ad.jpg?quality=80&width=200",
-        "precio": "460"
-      }
+  ],
+  "refreshers": [
+    {
+      "nombre": "Berry Hibiscus Refresher",
+      "img": "https://images.deliveryhero.io/image/pedidosya/products/7d316fd2-dace-4ed1-b579-fe74d5d1b278.jpg?quality=80&width=200",
+      "precio": "430"
+    },
+    {
+      "nombre": "Berry Hibiscus Lemonade Refresher",
+      "img": "https://images.deliveryhero.io/image/pedidosya/products/7d316fd2-dace-4ed1-b579-fe74d5d1b278.jpg?quality=80&width=200",
+      "precio": "460"
+    },
+    {
+      "nombre": "Violet Drink",
+      "img": "https://images.deliveryhero.io/image/pedidosya/products/53d0a62d-db49-493e-987a-4a4307e9b5b5.jpg?quality=80&width=200",
+      "precio": "460"
+    },
+    {
+      "nombre": "Pink Drink",
+      "img": "https://images.deliveryhero.io/image/pedidosya/products/0c7767b5-0474-4f15-8655-7a088e10fd8a.jpg?quality=80&width=200",
+      "precio": "460"
+    },
+    {
+      "nombre": "Dragon Drink",
+      "img": "https://images.deliveryhero.io/image/pedidosya/products/59bb4640-c459-4734-be74-a9a1767219ad.jpg?quality=80&width=200",
+      "precio": "460"
     }
-  }
+  ]
 }
